@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 68040f65b9cfd9a4383ecc80241a18d0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - cm: {instanceID: 0}
+  - jumpSoundEffect: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - trailRenderer: {instanceID: 0}
+  - onLandingFastSO: {fileID: 11400000, guid: 1b81751bea5122a49b0f5a48dcc10219, type: 2}
+  - landingFastShakeInfo: {fileID: 11400000, guid: 9ad9c4a8bb991b44a876790b573d0196, type: 2}
+  - onTogglePauseEvent: {fileID: 11400000, guid: b7a6509538354b74cbca707412cc0d24, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
